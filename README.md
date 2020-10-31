@@ -1,2 +1,6 @@
 # Hybrid-Recommendation-Engine
-This project makes both Collaborative Filtering and Content Based Filtering. It then predicts the best movie for the user.
+This project recommends the best recommended movie to the user.
+It is a hybrid of two type of Filtering:
+1)Collaborative Filtering
+2)Content Based Filtering.
+It then predicts the Movie according to the best fit like of the user.
